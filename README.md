@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**75Engel/75Engel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name es Javier, but you can call me Engel.
 
-Here are some ideas to get you started:
+👨‍🎓 I've studied Chemistry and I'd like to work as Data_Scientist 🔬
 
-- 🔭 Actualmente estoy trabajando en ...ningun sitio, me dedico a mis cosas, aficiones ya aprender (tengo mucho que aprender)😎
-- 🌱 Actualmente estoy aprendiendo... The Bridge, estoy cursando un Bootcamp sobre DS, que es un tema que me hace ser curioso (que ya lo soy de por si)😋
-- 👯 Busco colaborar en...DS
-- 🤔 I’m looking for help with ...sobre todo programacion, es algo que deje muy de lado
-- 💬 Ask me about ...conceptos empresariales, tengo mucha experi en lo que es una empresa y que te tienes que fijar
-- 📫 How to reach me: ...por correo, por supuesto (javiertenorioruiz@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Why? 👀 Very easy.
+
+I love analyse and predict future possible situations.
+
+I love dancing 🕺, read 📚, travel 🛩.
+
+---
+
+
+## Hallo 👋
+
+Mein Name ist Javier, aber Sie Können mir 'Engel' heiβen.
+
+👨‍🎓 Ich habe Chemie studiert und ich wollte als Data_Scientist arbeiten🔬.
+
+Warum? 👀 Sehr einfach. 
+
+Ich mag es, Fakten zu analysieren und mögliche zukünftige Situationen vorherzusagen.
+
+Meine Hobbies sind tanzen  🕺, lesen 📚 und reisen 🛩.
+
+---
+
+
+

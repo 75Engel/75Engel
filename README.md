@@ -30,7 +30,7 @@ Ich mag es, Fakten zu analysieren und mögliche zukünftige Situationen vorherzu
 Meine Hobbies sind tanzen  🕺, lesen 📚 und reisen 🛩.
 
 ---
-***
+## 
 
 I'm starting to develop my career in Data Analítics and Machine Learning Algorithms.
 
